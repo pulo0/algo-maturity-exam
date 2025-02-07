@@ -12,7 +12,7 @@ Overall my incentive of creating this repo is to share my progress of learning b
 Hopefully also creating a concise and easy to understand implementation of those algorithms and explanations of it :>
 
 ## Nice sources
-[!NOTE]
+> [!NOTE]
 > A warning note! Keep in mind that I'm no math expert and might write things completely out of my ass
 
 _Implementations of the algorithms were made by courtesy of those sources (sometimes with some tinkering of mine) that definitely a must if you are like a dumdum like me._
