@@ -9,12 +9,12 @@ Yet, you can also pick yourself up to six additional subjects _(that will be obv
 Me being a masochist picked Computer Science knowing that I could fail it miserably but still, I'm willing to give my best.
 
 Overall my incentive of creating this repo is to share my progress of learning basically all algorithms in core curriculum for this maturity exam.
-Hopefully also creating a concise and easy to understand implementation of those algorithms and explanations of it :>
+Hopefully also creating a concise and easy to understand implementation of those algorithms and explanations of them for you (if you will start this journey of learning as well) :>
 
 ## Nice sources
 > [!NOTE]
 > A warning note! Keep in mind that I'm no math expert and might write things completely out of my ass
 
-_Implementations of the algorithms were made by courtesy of those sources (sometimes with some tinkering of mine) that definitely a must if you are like a dumdum like me._
+_Implementations of the algorithms were made by courtesy of those sources (sometimes with some tinkering of mine) that definitely a must if you are a dumdum like me_
 - [algorytm.edu.pl](https://www.algorytm.edu.pl/)
 - [edu.cs-htiew.pl](https://edu.cs-htiew.pl/)
