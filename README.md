@@ -11,6 +11,14 @@ Me being a masochist picked Computer Science knowing that I could fail it misera
 Overall my incentive of creating this repo is to share my progress of learning basically all algorithms in core curriculum for this maturity exam.
 Hopefully also creating a concise and easy to understand implementation of those algorithms and explanations of them for you (if you will start this journey of learning as well) :>
 
+## Contents
+1. [_Integer Algorithms_](https://github.com/pulo0/algo-maturity-exam/tree/main/1_integer_algorithms)
+2. [_Sort & Search Algorithms_](https://github.com/pulo0/algo-maturity-exam/tree/main/2_sort_search_algorithms)
+3. [_Numeric Algorithms_](https://github.com/pulo0/algo-maturity-exam/tree/main/3_numeric_algorithms)
+4. [_String Algorithms_](https://github.com/pulo0/algo-maturity-exam/tree/main/4_string_algorithms)
+5. [_Compression & Encryption Algorithms_](https://github.com/pulo0/algo-maturity-exam/tree/main/5_compression_encryption_algorithms)
+6. [_Geometric Properties Algorithms_](https://github.com/pulo0/algo-maturity-exam/tree/main/6_geometric_properties_algorithms)
+
 ## Nice sources
 > [!NOTE]
 > A warning note! Keep in mind that I'm no math expert and might write things completely out of my ass
